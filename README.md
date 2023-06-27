@@ -9,7 +9,7 @@ I've been interested in web development, especially frontend development
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning React.js, Next.js, Tailwind
 * 🤝  I'm open to collaborating on new frontend projects/internship/part-time jobs
-* * ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
+* ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
 
 ### Core
 
