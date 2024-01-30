@@ -55,7 +55,7 @@ I've been interested in web development, especially frontend development
 ### Backend
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40younghwan%2Fexpress-session&psig=AOvVaw0aup3161g8AbwGmWeHFZ9e&ust=1706701687724000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDt27KFhYQDFQAAAAAdAAAAABAJ" width="48" height="48" alt="ExpressJS" />
+  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="48" height="48" alt="ExpressJS" />
 </a>
 
 ### Database
@@ -65,11 +65,11 @@ I've been interested in web development, especially frontend development
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPostgreSQL&psig=AOvVaw2E9TevtBbgNAYzC2WpTnmo&ust=1706701942498000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiZlayGhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffree-code-camp%2Flearn-mongodb-a4ce205e7739&psig=AOvVaw1v4I0buQgJjoZBH14vENJb&ust=1706701960308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCE2rSGhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="MongoDB" />
+  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" width="48" height="48" alt="MongoDB" />
 </a>
 
 ### Other
