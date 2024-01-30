@@ -7,53 +7,81 @@ A Computer Engineering Student at Chulalongkorn University
 I've been interested in web development, especially frontend development
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning React.js, Next.js, Tailwind
-* 🤝  I'm open to collaborating on new frontend projects/internship/part-time jobs
+* 🧠  I'm learning Next.js, TailwindCSS, Express.js
+* 🤝  I'm open to collaborating on new web development projects
 * ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
 
 ### Core
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" />
+</a>
+  
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" />
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw22Gq5Ytko5TfDRrM8lvuko&ust=1706700478956000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDStPKAhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="TypeScript" />
+</a>
   
 ### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-</a>
-
 <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://angularjs.org/img/ng-logo.png" width"36" height="36" alt="AngularJs" />
+  <img src="https://angularjs.org/img/ng-logo.png" width"48" height="48" alt="AngularJs" />
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJs" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="ReactJs" />
 </a>
 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="NextJs" />
 </a>
 
-### Backend & Database
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" />
+</a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+### Backend
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40younghwan%2Fexpress-session&psig=AOvVaw0aup3161g8AbwGmWeHFZ9e&ust=1706701687724000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDt27KFhYQDFQAAAAAdAAAAABAJ" width="48" height="48" alt="ExpressJS" />
+</a>
+
+### Database
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPostgreSQL&psig=AOvVaw2E9TevtBbgNAYzC2WpTnmo&ust=1706701942498000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiZlayGhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="PostgreSQL" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffree-code-camp%2Flearn-mongodb-a4ce205e7739&psig=AOvVaw1v4I0buQgJjoZBH14vENJb&ust=1706701960308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCE2rSGhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="MongoDB" />
+</a>
 
 ### Other
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+</a>
+
 </p>
 
 ### Socials
