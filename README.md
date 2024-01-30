@@ -31,7 +31,7 @@ I've been interested in web development, especially frontend development
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw22Gq5Ytko5TfDRrM8lvuko&ust=1706700478956000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDStPKAhYQDFQAAAAAdAAAAABAE" width="48" height="48" alt="TypeScript" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw22Gq5Ytko5TfDRrM8lvuko&ust=1706700478956000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDStPKAhYQDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
 </a>
   
 ### Frontend
