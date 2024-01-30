@@ -55,7 +55,7 @@ I've been interested in web development, especially frontend development
 ### Backend
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
 </a>
 
 ### Database
