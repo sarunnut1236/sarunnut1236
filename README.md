@@ -90,4 +90,4 @@ I've been interested in web development, especially frontend development
 
 ### Badges
 
-<a href="https://github.com/sarunnut1236" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarunnut1236&langs_count=15&title_color=000000&text_color=444e59&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sarunnut1236" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarunnut1236&langs_count=5&title_color=000000&text_color=444e59&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
