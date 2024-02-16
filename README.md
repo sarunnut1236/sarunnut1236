@@ -33,6 +33,8 @@ I've been interested in web development, especially frontend development
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
 </a>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=light)](https://skillicons.dev)
   
 ### Frontend
 
