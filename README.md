@@ -13,78 +13,23 @@ I've been interested in web development, especially frontend development
 
 ### Core
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" />
-</a>
-  
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" />
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-</a>
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=light)](https://skillicons.dev)
+[![My core languages](https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=light)](https://skillicons.dev)
   
 ### Frontend
 
-<a href="https://angularjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://angularjs.org/img/ng-logo.png" width"48" height="48" alt="AngularJs" />
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="ReactJs" />
-</a>
-
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="NextJs" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" />
-</a>
+[![My frontend tools](https://skillicons.dev/icons?i=nextjs,tailwind,figma&theme=light)](https://skillicons.dev)
 
 ### Backend
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
-</a>
+[![My backend tools](https://skillicons.dev/icons?i=express,postman&theme=light)](https://skillicons.dev)
 
 ### Database
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" width="48" height="48" alt="MongoDB" />
-</a>
+[![My databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
 ### Other
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-</a>
-
-</p>
+[![My other tools](https://skillicons.dev/icons?i=git,photoshop&theme=light)](https://skillicons.dev)
 
 ### Socials
 
