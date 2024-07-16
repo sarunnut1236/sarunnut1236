@@ -7,7 +7,7 @@ A Computer Engineering Student at Chulalongkorn University
 I've been interested in web development, especially frontend development
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Next.js, TailwindCSS, Express.js
+* 🧠  I'm learning Next.js, TailwindCSS
 * 🤝  I'm open to collaborating on new web development projects
 * ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
 
@@ -17,11 +17,11 @@ I've been interested in web development, especially frontend development
   
 ### Frontend
 
-[![My frontend tools](https://skillicons.dev/icons?i=nextjs,tailwind,figma&theme=light)](https://skillicons.dev)
+[![My frontend tools](https://skillicons.dev/icons?i=angular,nextjs,tailwind,figma&theme=light)](https://skillicons.dev)
 
 ### Backend
 
-[![My backend tools](https://skillicons.dev/icons?i=express,postman&theme=light)](https://skillicons.dev)
+[![My backend tools](https://skillicons.dev/icons?i=express,nestjs,postman,sequelize&theme=light)](https://skillicons.dev)
 
 ### Database
 
