@@ -7,7 +7,7 @@ A Computer Engineering Student at Chulalongkorn University
 I've been interested in web development, especially frontend development
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Next.js, TailwindCSS
+* 🧠  I'm learning Next.js, AngularJS, TailwindCSS
 * 🤝  I'm open to collaborating on new web development projects
 * ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
 
@@ -17,7 +17,7 @@ I've been interested in web development, especially frontend development
   
 ### Frontend
 
-[![My frontend tools](https://skillicons.dev/icons?i=angular,nextjs,tailwind,figma&theme=light)](https://skillicons.dev)
+[![My frontend tools](https://skillicons.dev/icons?i=nextjs,angular,tailwind,figma&theme=light)](https://skillicons.dev)
 
 ### Backend
 
@@ -33,7 +33,7 @@ I've been interested in web development, especially frontend development
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sarunnut1236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarunponglapsuksathit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarunponglapsuksathit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
