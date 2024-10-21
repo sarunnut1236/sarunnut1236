@@ -21,7 +21,7 @@ I've been interested in web development, especially frontend development
 
 ### Backend
 
-[![My backend tools](https://skillicons.dev/icons?i=express,nestjs,postman,sequelize&theme=light)](https://skillicons.dev)
+[![My backend tools](https://skillicons.dev/icons?i=express,postman,sequelize&theme=light)](https://skillicons.dev)
 
 ### Database
 
