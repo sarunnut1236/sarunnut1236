@@ -30,7 +30,3 @@ A Computer Engineering Student at Chulalongkorn University
 ### Other
 
 [![My other tools](https://skillicons.dev/icons?i=git,photoshop,figma,wordpress&theme=light)](https://skillicons.dev)
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_sarunnutto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarunponglapsuksathit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
