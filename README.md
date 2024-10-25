@@ -13,23 +13,27 @@ I've been interested in web development, especially frontend development
 
 ### Core
 
-[![My core languages](https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=light)](https://skillicons.dev)
+[![My core languages](https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart&theme=light)](https://skillicons.dev)
   
 ### Frontend
 
-[![My frontend tools](https://skillicons.dev/icons?i=nextjs,angular,tailwind,figma&theme=light)](https://skillicons.dev)
+[![My frontend tools](https://skillicons.dev/icons?i=nextjs,angular,tailwind,flutter&theme=light)](https://skillicons.dev)
 
 ### Backend
 
-[![My backend tools](https://skillicons.dev/icons?i=express,postman,sequelize&theme=light)](https://skillicons.dev)
+[![My backend tools](https://skillicons.dev/icons?i=express,postman,prisma&theme=light)](https://skillicons.dev)
 
 ### Database
 
 [![My databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
+### DevOps
+
+[![My devOps tools](https://skillicons.dev/icons?i=docker,terraform&theme=light)](https://skillicons.dev)
+
 ### Other
 
-[![My other tools](https://skillicons.dev/icons?i=git,photoshop&theme=light)](https://skillicons.dev)
+[![My other tools](https://skillicons.dev/icons?i=git,photoshop,figma,wordpress&theme=light)](https://skillicons.dev)
 
 ### Socials
 
