@@ -9,7 +9,7 @@ A Computer Engineering Student at Chulalongkorn University
 
 ### Core
 
-[![My core languages](https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart&theme=light)](https://skillicons.dev)
+[![My core languages](https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart,kotlin&theme=light)](https://skillicons.dev)
   
 ### Frontend
 
