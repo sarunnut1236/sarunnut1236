@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Engineering Student at Chulalongkorn University
 ----------------------------------------------------------
 
-* 🤝  I've been interested in full-stack web development
-* ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com)
+* 🤝  I've been interested in software development.
+* ✉️  You can contact me at [sarunlapsuk@gmail.com](mailto:sarunlapsuk@gmail.com).
 
 ### Core
 
-[![My core languages](https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart,kotlin&theme=light)](https://skillicons.dev)
+[![My core languages](https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart,scala&theme=light)](https://skillicons.dev)
   
 ### Frontend
 
