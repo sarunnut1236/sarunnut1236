@@ -13,7 +13,7 @@ A Computer Engineering Student at Chulalongkorn University
   
 ### Frontend
 
-[![My frontend tools](https://skillicons.dev/icons?i=nextjs,angular,tailwind,flutter&theme=light)](https://skillicons.dev)
+[![My frontend tools](https://skillicons.dev/icons?i=nextjs,angular,tailwind,flutter,react&theme=light)](https://skillicons.dev)
 
 ### Backend
 
